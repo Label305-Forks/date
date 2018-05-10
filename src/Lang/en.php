@@ -44,5 +44,13 @@ return [
     'friday'    => 'Friday',
     'saturday'  => 'Saturday',
     'sunday'    => 'Sunday',
+    
+    'mon'       => 'Mo',
+    'tue'       => 'Tu',
+    'wed'       => 'We',
+    'thu'       => 'Th',
+    'fri'       => 'Fr',
+    'sat'       => 'Sa',
+    'sun'       => 'Su',
 
 ];
